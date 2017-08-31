@@ -1,0 +1,45 @@
+('1', (87141731, 4))
+(23120126, 12)
+(87141731, 15)
+   display_id   ad_id  clicked       ctr            uuid  document_id_event  \
+0           1   42337        0  0.167133  cb8c55702adb93             379743   
+1           1  139684        0  0.164327  cb8c55702adb93             379743   
+2           1  144739        1  0.324253  cb8c55702adb93             379743   
+3           1  156824        0  0.032457  cb8c55702adb93             379743   
+4           1  279295        0  0.315942  cb8c55702adb93             379743   
+5           1  296965        0  0.090909  cb8c55702adb93             379743   
+6           2  125211        0  0.151311  79a85fa78311b9            1794259   
+7           2  156535        0       NaN  79a85fa78311b9            1794259   
+8           2  169564        0  0.085470  79a85fa78311b9            1794259   
+9           2  308455        1  0.355056  79a85fa78311b9            1794259   
+
+   timestamp  platform geo_location country state  region  hour  weekday  uid  
+0         61         3    US>SC>519      US    SC     519     0        0    1  
+1         61         3    US>SC>519      US    SC     519     0        0    1  
+2         61         3    US>SC>519      US    SC     519     0        0    1  
+3         61         3    US>SC>519      US    SC     519     0        0    1  
+4         61         3    US>SC>519      US    SC     519     0        0    1  
+5         61         3    US>SC>519      US    SC     519     0        0    1  
+6         81         2    US>CA>807      US    CA     807     0        0    2  
+7         81         2    US>CA>807      US    CA     807     0        0    2  
+8         81         2    US>CA>807      US    CA     807     0        0    2  
+9         81         2    US>CA>807      US    CA     807     0        0    2  
+('2', (559583, 4))
+(87141731, 18)
+("doc_meta's size", (2999334, 4))
+("doc_topic's size", (2828649, 2))
+("doc_meta_topic's size", (2999334, 5))
+("doc_entity's size", (1791420, 2))
+("doc_meta_topic_entity's size", (2999334, 6))
+("doc_category's size", (2495423, 2))
+("doc_meta_topic_entity_category's size", (2999334, 7))
+('3', (2999334, 7))
+(87141731, 24)
+("viewed_doc's size", (17524618, 2))
+("train_ad_doc_vieweddoc's size", (87141731, 25))
+("viewed_source's size", (19794967, 2))
+("train_ad_doc_vieweddoc_viewedsource's size", (87141731, 26))
+("viewed_doc_onehour's size", (4786292, 3))
+("train_ad_doc_viewedoc_viewedsource_vieweddoconehour's size", (87141731, 28))
+(14814344, 4)
+(87141731, 31)
