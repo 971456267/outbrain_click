@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# thanks to https://github.com/alno/kaggle-outbrain-click-prediction
 import csv, os
 
 input_dir = os.getenv('INPUT', '../../data')
