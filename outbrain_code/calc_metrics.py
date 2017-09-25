@@ -1,4 +1,4 @@
-
+#thanks to http://github.com/daiwk/gt/bolb/master/tools/calc_metrics.py#L194
 import numpy as np
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
